@@ -1,0 +1,12 @@
+table, th, tr, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: center;
+}
+
+tr:not(th) {
+    text-align: right;
+}

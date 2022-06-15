@@ -1,0 +1,19 @@
+body {
+    margin-top: 0%;
+}
+nav, ul {
+    background-color: lightgray;
+    margin: 0;
+    padding-inline: 20%;
+    padding-block: 10px;
+}
+
+li { 
+    display: inline;
+    padding: 10px;
+}
+
+li a {
+    text-decoration: none;
+    color: green;
+}
